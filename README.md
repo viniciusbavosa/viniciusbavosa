@@ -5,8 +5,7 @@
 
 <p align="left"> 
   Sou um desenvolvedor  <strong>Front-End e Web Designer</strong>.<br>
-  Atualmente trabalho como freelancer enquanto aprimoro minhas habilidades de desenvolvedor.
-
+  Trabalho como freelancer, buscando constantemente aprimorar minhas habilidades para oferecer soluções mais criativas e eficientes.
   
 Minha afinidade pela tecnologia e programação floresceu a partir do meu amor pela arte. Em busca de uma maneira de compartilhar minha expressão com o mundo, fiquei fascinado ao perceber que podia unir arte e tecnologia na programação. A capacidade de criar e me expressar artisticamente, traduzindo essas ideias em código para um computador, era exatamente o que eu procurava.
 </p>
