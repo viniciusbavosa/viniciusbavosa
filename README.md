@@ -39,11 +39,17 @@ Minha afinidade pela tecnologia e programação floresceu a partir do meu amor p
 
 <p align="left">
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-bavosa-b94977298/)](https://www.linkedin.com/in/vinicius-bavosa-b94977298/)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511959949403/)](https://wa.me/5511959949403/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/viniciusbavosa/)](https://instagram.com/viniciusbavosa/)
 [![Behance Badge](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&labelColor=1769FF&logo=behance&logoColor=white&link=https://www.behance.net/bavosadesign/)](https://www.behance.net/bavosadesign/)
 
 </p>
+
+## Analytics
+
+<div align="center">
+  <a href="https://github.com/viniciusbavosa/">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciusbavosa&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbavosa&layout=compact&theme=dark"/>
+</div> <br>
 
