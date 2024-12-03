@@ -1,13 +1,11 @@
 
 
-## 💜 Olá, meu nome é <strong>Vini!</strong>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+## Olá, meu nome é <strong>Vini!</strong>
 
 <p align="left"> 
   Sou um desenvolvedor  <strong>Front-End</strong>.<br>
   
-Minha afinidade pela tecnologia e programação floresceu a partir do meu amor pela arte. Em busca de uma maneira de compartilhar minha expressão com o mundo, fiquei fascinado ao perceber que podia unir arte e tecnologia na programação. A capacidade de criar e me expressar artisticamente, traduzindo essas ideias em código para um computador, era exatamente o que eu procurava.
+  Minha afinidade pela tecnologia e programação floresceu a partir do meu amor pela arte. Em busca de uma maneira de compartilhar minha expressão com o mundo, fiquei fascinado   ao perceber que podia unir arte e tecnologia na programação. A capacidade de criar e me expressar artisticamente, traduzindo essas ideias em código para um computador, era     exatamente o que eu procurava.
 </p>
 
 <p align="left">
@@ -49,7 +47,7 @@ Minha afinidade pela tecnologia e programação floresceu a partir do meu amor p
 
 ## Analytics
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/viniciusbavosa/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciusbavosa&show_icons=true&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbavosa&layout=compact&theme=dark"/>
