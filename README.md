@@ -1,6 +1,6 @@
 
 
-## Olá, meu nome é <strong>Vini!</strong>
+## Oi, sou o <strong>Vini!</strong>
 
 <p align="left"> 
   Sou um desenvolvedor  <strong>Front-End</strong>.<br>
