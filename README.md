@@ -47,7 +47,7 @@
 
 ## Analytics
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/viniciusbavosa/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciusbavosa&show_icons=true&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbavosa&layout=compact&theme=dark"/>
