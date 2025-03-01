@@ -1,6 +1,6 @@
 # Vinicius Bavosa
 
-Desenvolvedor Front-end.
+Desenvolvedor full stack.
 
-Focado em CSS, SVG e qualquer tipo de arte digital.
+Focado em CSS, e qualquer tipo de arte digital.
 
