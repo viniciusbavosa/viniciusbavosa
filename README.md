@@ -1,6 +1,6 @@
 # Vinicius Bavosa
 
-Desenvolvedor full-stack.
+Desenvolvedor Web.
 
 Focado em CSS, e qualquer tipo de arte digital.
 
